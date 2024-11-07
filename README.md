@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NghiemC
+- 👋 Hi, I’m Charlie Nghiem
 - 👀 I’m interested in getting a job within the Tech field.
 - 🌱 I’m currently learning and improve on my programming skills.
 - 💞️ I’m looking to collaborate on small open source projects.
